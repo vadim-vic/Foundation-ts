@@ -14,10 +14,16 @@ The goal of this project is to compare various architectures of foundation model
 4. The data format to keep the dataset is [HDF5](https://www.hdfgroup.org/)
 
 ## The assumptions about the pipelines
-1. PyTorch and PyG are the main packages to make models.
+1. PyTorch and [PyG](https://pyg.org/) are the main packages to make models.
 2. JAX is welcome if it delivers faster results.
 
 ## The basic idea to start with
 The paradox of time series forecasting is that a simple model (like Singular Spectrum Analysis) delivers the same or better accuracy of forecasting as a complex LSTM model. So the foundation model finds the optimal pair (data, local model) acting as a mixture of experts. 
+
+## List of candidate models to compare
+1. [WaveNet](https://github.com/golbin/WaveNet) – there are various code sources
+2. [DRCNN](https://github.com/liyaguang/DCRNN) – diffusion convolution
+3. [SSR](https://github.com/QData/spacetimeformer) – multivariate state space reconstruction
+4. [Time-SSM](https://arxiv.org/pdf/2405.16312) – comparison of several continuous models
 
    
