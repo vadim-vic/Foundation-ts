@@ -7,6 +7,9 @@ This project investigates theoretical properties of foundation models. The domai
 4. Causal inference.
 The goal of this project is to compare various architectures of foundation models to select an optimal architecture that solves the listed problems for a wide range of spatial time series.
 
+## News
+are in the Telegram channel [FoundationTS](https://t.me/FoundationTS)
+
 ## The assumptions about the time series
 1. One dataset comprises a set of time series, possibly of different origins and sample rates.
 2. The main type of time series is spatial time series. The spatial coordinates could be irregular.
