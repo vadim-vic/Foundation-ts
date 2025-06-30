@@ -18,7 +18,7 @@ The goal of this project is to compare various architectures of foundation model
 2. JAX is welcome if it delivers faster results.
 
 ## The basic idea to start with
-The paradox of time series forecasting is that a simple model (like Singular Spectrum Analysis) delivers the same or better accuracy of forecasting as a complex LSTM model. So the foundation model finds the optimal pair (data, local model) acting as a mixture of experts. 
+The paradox of time series forecasting is that a simple model (like Singular Spectrum Analysis, call it a local model) delivers the same or better accuracy of forecasting as a complex LSTM model. So the foundation model finds the optimal pair (data, local model) acting as a mixture of experts. 
 
 ## List of candidate models to compare
 1. [WaveNet](https://github.com/golbin/WaveNet) – there are various code sources
