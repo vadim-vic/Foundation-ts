@@ -15,7 +15,7 @@ The difference between text GPT foundation models and time series foundation mod
 The project delivers: 1) a comparative analysis of the foundation models (as a paper), 2) computational experiments with the foundation model comparison (.ipynb), 3) a selected foundation model of optimal architecture (described in a paper), 4) the model is developed as a software (pytorch or jax pipeline), 5) a basic database of the time series to train the foundation model, 6) a deployment setup (flask, aws), 7) use cases and examples (.ipynb), and 8) theoretical research of the model properties (a submitted paper).
 
 ## Technical requirements 
-The theoretical analysis is supported by software with an interface and documentation. The main modules are indexed via PyPI. The software requirements are: codestyle at least PEP-8; the code must be commented; there must be an installation file, a requirements file with defined versions. Demo: must be available in .ipynb or .collab.  Tests: coverage 75%.
+The theoretical analysis is supported by software with an interface and documentation. The main modules are indexed via PyPI. The software requirements are: codestyle at least PEP-8; the code must be commented; there must be an installation file, a requirements file with defined versions. Demo: must be available in .ipynb or .colab.  Tests: coverage 75%.
 ## Dissipation 
 The results of this research project will be presented in scientific papers with a manageable extraction to motivate users to utilize the developed foundation model. The model will be supplied with a user interface and deployed on open resources. 
 
