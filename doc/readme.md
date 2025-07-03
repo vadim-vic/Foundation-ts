@@ -1,6 +1,6 @@
 
 #  Study of the theoretical properties of foundation models for time series 
-~~Etude des propriétés théoriques des modèles fondationnels pour les séries temporelles~~
+__Etude des propriétés théoriques des modèles fondationnels pour les séries temporelles__
 
 ## Abstract 
 Foundation AI models are universal models to solve a wide set of problems. This project proposes to investigate the theoretical properties of foundation models. The domain to model is a spatial-time series. These data are used in various scientific disciplines and serve to generalise scientific knowledge and make forecasts. The essential problems, formulated as user requests that solve a foundation model, are forecasting and generation of time series; analysis and classification of time series; detection of change point, and causal inference. To solve these problems, the foundation AI models are trained on massive datasets. The main goal of this project is to compare various architectures of foundation models to find an optimal architecture that solves the listed problems for a wide range of spatial time series. 
