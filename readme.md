@@ -1,6 +1,6 @@
 # Study of the theoretical properties of foundational models for time series
 <!--# Etude des propriétés théoriques des modèles fondationnels pour les séries temporelles-->
-This project investigates theoretical properties of foundation models. The domain to model is a spatial-time series. A foundation model solves the following problems of the domain:
+This project investigates the theoretical properties of foundation models. The domain to model is a spatial-time series. A foundation model solves the following problems of the domain:
 1. Forecasting and generation of time series;
 2. Analysis and classification of time series;
 3. Detection of change point;
@@ -8,6 +8,9 @@ This project investigates theoretical properties of foundation models. The domai
 The goal of this project is to compare various architectures of foundation models to select an optimal architecture that solves the listed problems for a wide range of spatial time series.
 
 **News** <!--is in the Telegram channel [FoundationTS](https://t.me/FoundationTS)-->
+
+**List of lab modules**
+1. [Serie 1 (unsorted)](doc/readme.md)
 
 ## The assumptions about the time series
 1. One dataset comprises a set of time series, possibly of different origins and sample rates.
