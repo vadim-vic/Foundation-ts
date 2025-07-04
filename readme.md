@@ -8,9 +8,11 @@ This project investigates the theoretical properties of foundation models. The d
 The goal of this project is to compare various architectures of foundation models to select an optimal architecture that solves the listed problems for a wide range of spatial time series.
 
 **News** <!--is in the Telegram channel [FoundationTS](https://t.me/FoundationTS)-->
+1. [General description](doc/readme.md)
+2. [List of lab modules](doc/lab-modules.md)
 
 **List of lab modules**
-1. [Serie 1 (unsorted)](doc/readme.md)
+1. [Serie 1 (unsorted)](doc/lab-modules.md)
 
 ## The assumptions about the time series
 1. One dataset comprises a set of time series, possibly of different origins and sample rates.
